@@ -1,0 +1,7 @@
+tweepy>=3.10.0
+ffmpeg>=1.4
+ffmpeg-python>=0.2.0
+imageio-ffmpeg>=0.4.3
+SpeechRecognition>=3.8.1
+PIL>=8.0.1
+google-trans-new>=1.1.9
